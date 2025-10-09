@@ -1,0 +1,16 @@
+
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+env/
+
+# VSCode settings
+.vscode/
+
+# Mac OS
+.DS_Store
+
+# dotenv/secrets
+.env
